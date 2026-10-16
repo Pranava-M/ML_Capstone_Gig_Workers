@@ -1,0 +1,3 @@
+Algorithm,Silhouette,Davies-Bouldin,Calinski-Harabasz,Fit time (s)
+K-Means (k=3),0.1293,2.2218,1309.4695,2.1094
+"Agglomerative (ward, k=3)",0.0946,2.6132,989.1699,5.5066

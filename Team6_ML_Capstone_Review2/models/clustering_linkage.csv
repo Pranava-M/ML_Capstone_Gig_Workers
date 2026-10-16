@@ -1,0 +1,5 @@
+Linkage,Silhouette,Davies-Bouldin,Calinski-Harabasz,Smallest cluster,Largest cluster,Fit time (s)
+ward,0.0946,2.6132,989.1699,1755,4258,5.5066
+complete,0.0914,2.508,837.8653,1521,6565,4.813
+average,0.1415,1.0686,15.2285,2,9982,5.3245
+single,0.2519,0.5309,3.4196,1,9998,2.0763

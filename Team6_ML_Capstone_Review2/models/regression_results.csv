@@ -1,0 +1,11 @@
+Rank,Model,R2,RMSE,MAE,CV R2 (5-fold)
+1,Gradient Boosting Regressor,0.7941,4.0836,2.2908,0.7462
+2,Random Forest Regressor,0.777,4.2494,2.3373,0.7526
+3,Lasso Regression,0.7756,4.2628,2.3694,0.6947
+4,Linear Regression,0.7749,4.2693,2.3789,0.6947
+5,ElasticNet Regression,0.7745,4.2729,2.3825,0.6949
+6,Ridge Regression,0.7743,4.2756,2.3857,0.695
+7,Decision Tree Regressor,0.7703,4.3128,2.4025,0.7431
+8,Support Vector Regressor (SVR),0.7685,4.3294,2.265,0.7386
+9,Polynomial Regression,0.7652,4.3602,2.4097,0.6934
+10,K-Nearest Neighbors Regressor,0.7195,4.7657,2.7436,0.7073

@@ -1,0 +1,81 @@
+{
+  "K": 3,
+  "elbow_k": 3,
+  "silhouette_k": 10,
+  "best_linkage": "ward",
+  "best_algorithm": "K-Means (k=3)",
+  "features": [
+    "Booking Value",
+    "Ride Distance",
+    "Avg VTAT",
+    "Avg CTAT",
+    "Driver Ratings",
+    "Customer Rating"
+  ],
+  "pca_variance_2d": 0.34143425879468137,
+  "ari_kmeans_vs_agglomerative": 0.18181750194941348,
+  "profiles": [
+    {
+      "Cluster": 0,
+      "Booking Value": 504.285,
+      "Ride Distance": 25.457,
+      "Avg VTAT": 8.591,
+      "Avg CTAT": 22.428,
+      "Driver Ratings": 4.394,
+      "Customer Rating": 4.431,
+      "Rides": 4030
+    },
+    {
+      "Cluster": 1,
+      "Booking Value": 494.16,
+      "Ride Distance": 26.699,
+      "Avg VTAT": 8.719,
+      "Avg CTAT": 30.157,
+      "Driver Ratings": 3.544,
+      "Customer Rating": 4.426,
+      "Rides": 1971
+    },
+    {
+      "Cluster": 2,
+      "Booking Value": 512.168,
+      "Ride Distance": 26.573,
+      "Avg VTAT": 8.394,
+      "Avg CTAT": 37.943,
+      "Driver Ratings": 4.405,
+      "Customer Rating": 4.369,
+      "Rides": 3999
+    }
+  ],
+  "feature_ranges": {
+    "Booking Value": [
+      50.0,
+      410.0,
+      4228.0
+    ],
+    "Ride Distance": [
+      2.0,
+      26.11,
+      49.99
+    ],
+    "Avg VTAT": [
+      2.0,
+      8.5,
+      15.0
+    ],
+    "Avg CTAT": [
+      15.0,
+      30.2,
+      45.0
+    ],
+    "Driver Ratings": [
+      3.0,
+      4.3,
+      5.0
+    ],
+    "Customer Rating": [
+      3.0,
+      4.4,
+      5.0
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "best_model": "Gradient Boosting Regressor",
+  "test_r2": 0.7940743497071097,
+  "test_rmse": 4.083616165243118,
+  "test_mae": 2.2908403932108943,
+  "cv_r2": 0.7484495083930905,
+  "fare_median": 8.5,
+  "fare_max": 183.0,
+  "distance_max": 90.06146493837471,
+  "features": [
+    "distance_km",
+    "passenger_count",
+    "pickup_hour",
+    "is_weekend",
+    "pickup_day_of_week",
+    "pickup_month"
+  ]
+}
