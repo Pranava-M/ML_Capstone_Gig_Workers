@@ -11,3 +11,5 @@ jupyter
 nbformat
 nbclient
 ipykernel
+joblib>=1.3
+
