@@ -1,6 +1,6 @@
 numpy>=1.24
 pandas>=2.0
-scikit-learn==1.9.1   # models/*.joblib were saved with this version
+scikit-learn==1.9.1
 matplotlib>=3.7
 seaborn>=0.12
 scipy>=1.10
@@ -11,5 +11,3 @@ jupyter
 nbformat
 nbclient
 ipykernel
-joblib>=1.3
-
